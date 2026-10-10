@@ -1,0 +1,8 @@
+12345#Toyota#Den#2020
+45678#Mazda#Xam#2024
+56789#Ford#Den#2019
+67890#Honda#Den#2022
+78901#Toyota#Trang#2023
+89012#Mazda#Do#2021
+90123#Ford#Xanh#2020
+11223#Honda#Den#2024
